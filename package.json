@@ -1,16 +1,15 @@
 {
   "name": "lyrics-mus",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
-  "main": "lyric.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\""
   },
-  "author": "",
+  "author": "Gabrideiros",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.6",
-    "musicmatch": "^0.3.2",
-    "request": "^2.88.2"
+    "superagent": "^6.1.0"
   }
 }
